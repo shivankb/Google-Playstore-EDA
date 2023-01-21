@@ -69,3 +69,5 @@ These are the general conclusions that are drawn from this EDA:
     5. Majority of apps that people utilise have a "Everyone 10+" as Content Rating.
     6. Majority of review sentiment is positive, with neutral reviews making up the smallest percentage.
     7. After looking at the percentage of sentiments for the top 3 apps, it is discovered that the health and fitness category had the most positive sentiments, whilst the game app category received the most negative.
+
+![pngfind com-google-play-logo-png-488760](https://user-images.githubusercontent.com/121177364/213854305-652fd3a3-84e6-40cd-a763-9ec1c97c951b.png)
