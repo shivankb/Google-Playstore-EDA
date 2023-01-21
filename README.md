@@ -59,7 +59,7 @@ To run this project, you will need to have the following packages installed:
 
 # Conclusion
 
-These are the general conclusions that are drawn from an EDA on the Google Playstore:
+These are the general conclusions that are drawn from this EDA:
 
     1. Majority of apps that people use are free based and very few people use the Play Store to buy apps.
     2. Apps on the play store have an average rating of 4.4.
