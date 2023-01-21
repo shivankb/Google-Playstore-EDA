@@ -1,7 +1,7 @@
 
 # Google Playstore Exploratory Data Analysis
 
-![1657590](https://user-images.githubusercontent.com/121177364/213853283-89bd56a2-f17d-4af7-b097-b90f77f1a23f.jpg)
+![56](https://user-images.githubusercontent.com/121177364/213855281-bff44fa5-4874-4a55-b214-327fb687fcc6.jpg)
 
 The Google Play Store is a digital marketplace for mobile apps on the Android operating system. These apps now significantly influence how we live our lives. The goal of this project is to provide information that will assist developers better understand client needs and, in turn, help the product become more well-known. This includes analyzing the relationship between app ratings and download numbers, identifying the most popular app categories, or exploring the sentiment of app reviews. The project also includes visualizations to help communicate the findings and insights.
 
