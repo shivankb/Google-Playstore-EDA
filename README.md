@@ -9,11 +9,12 @@ The Google Play Store is a digital marketplace for mobile apps on the Android op
 
 The analysis will include the following steps:
 
-    1. Data cleaning and preprocessing
-    2. Exploring the distribution of sentiment in the reviews
-    3. Identifying the most common themes and keywords in the reviews
-    4. Visualizing the relationship between sentiment and other variables in the data
-    5. Creating a model to predict the sentiment of reviews based on the text
+    1. Importing Libraries
+    2. Reading Data
+    3. Understanding the Data
+    4. Data cleaning and preprocessing
+    5. Data Visualization to communicate the results
+    6. Conclusion
 
 #  Data
 
